@@ -113,15 +113,7 @@ The application retrieves the most relevant clauses from the policy document and
 
 ---
 
-## Future Enhancements
 
-* Support multiple policy documents
-* Highlight retrieved clauses in the UI
-* Conversation history
-* Docker deployment
-* Advanced policy comparison
-
----
 
 
 
