@@ -36,7 +36,7 @@ ClauseIQ – AI-Powered Insurance Policy Reasoning System - Retrieval-Augmented 
 
 ## Project Structure
 
-<escape>ClauseIQ/
+ClauseIQ/
 │── app.py
 │── rag_pipeline.py
 │── embeddings.py
