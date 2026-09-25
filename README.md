@@ -64,7 +64,7 @@ ClauseIQ is a **Retrieval-Augmented Generation (RAG)** application that analyzes
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CLAUSE-IQ.git
+git clone https://github.com/tanvi1-ui/CLAUSE-IQ.git
 cd CLAUSE-IQ
 ```
 
