@@ -1,10 +1,5 @@
 # ClauseIQ – AI-Powered Insurance Policy Reasoning System
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
-![LangChain](https://img.shields.io/badge/LangChain-RAG-green)
-![FAISS](https://img.shields.io/badge/VectorDB-FAISS-orange)
-![Gemini](https://img.shields.io/badge/LLM-Gemini_2.5-purple)
 
 ClauseIQ is a **Retrieval-Augmented Generation (RAG)** application that analyzes insurance policy documents and provides **clause-grounded answers** to user queries. Instead of relying on general AI knowledge, it retrieves the most relevant policy clauses using semantic search and generates responses backed by the policy document.
 
