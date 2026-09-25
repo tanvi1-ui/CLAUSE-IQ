@@ -24,7 +24,7 @@ ClauseIQ is a **Retrieval-Augmented Generation (RAG)** application that analyzes
 4. Generate embeddings with Sentence Transformers.
 5. Store vectors in FAISS.
 6. Retrieve the most relevant clauses for a user query.
-7. Generate a grounded response using Gemini 2.5 Flash.
+7. Generate a grounded response using Gemini API.
 
 ---
 
